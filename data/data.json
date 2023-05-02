@@ -2,7 +2,7 @@
 	"chefs": [
 		{
 			"id": "1",
-			"picture": "https://example.com/chef1.jpg",
+			"picture": "https://i.ibb.co/x6Z7Tz2/chef4.jpg",
 			"name": "Alice Smith",
 			"years_of_experience": 10,
 			"num_recipes": 50,
@@ -86,7 +86,7 @@
 		},
 		{
 			"id": "2",
-			"picture": "https://example.com/chef2.jpg",
+			"picture": "https://i.ibb.co/R0dbKzW/chef3.jpg",
 			"name": "Bob Johnson",
 			"years_of_experience": 8,
 			"num_recipes": 40,
@@ -164,7 +164,7 @@
 		},
 		{
 			"id": "3",
-			"picture": "https://example.com/chef3.jpg",
+			"picture": "https://i.ibb.co/MR8VCTz/chef2.jpg",
 			"name": "Charlie Brown",
 			"years_of_experience": 15,
 			"num_recipes": 75,
@@ -251,7 +251,7 @@
 		},
 		{
 			"id": "4",
-			"picture": "https://example.com/chef4.jpg",
+			"picture": "https://i.ibb.co/NyCmH58/chef1.jpg",
 			"name": "Diana Martinez",
 			"years_of_experience": 12,
 			"num_recipes": 60,
@@ -341,7 +341,7 @@
 		},
 		{
 			"id": "5",
-			"picture": "https://example.com/chef5.jpg",
+			"picture": "https://i.ibb.co/rMpPtnv/chef6.jpg",
 			"name": "Eduardo Gonzalez",
 			"years_of_experience": 20,
 			"num_recipes": 100,
@@ -431,7 +431,7 @@
 		},
 		{
 			"id": "6",
-			"picture": "https://example.com/chef6.jpg",
+			"picture": "https://i.ibb.co/ZzkrRLm/chef5.jpg",
 			"name": "Fernanda Rodriguez",
 			"years_of_experience": 6,
 			"num_recipes": 30,
