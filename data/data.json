@@ -252,11 +252,11 @@
 		{
 			"id": "4",
 			"picture": "https://i.ibb.co/NyCmH58/chef1.jpg",
-			"name": "Diana Martinez",
+			"name": "Dan Martinez",
 			"years_of_experience": 12,
 			"num_recipes": 60,
 			"likes": 900,
-			"bio": "Diana Martinez is a Mexican chef who has a passion for using fresh, locally-sourced ingredients in her dishes. She has worked in restaurants across Mexico, and is known for her inventive and creative approach to traditional Mexican cuisine. Her dishes are always colorful, flavorful, and beautifully presented.",
+			"bio": "Dan Martinez is a Mexican chef who has a passion for using fresh, locally-sourced ingredients in his dishes. He has worked in restaurants across Mexico, and is known for his inventive and creative approach to traditional Mexican cuisine. His dishes are always colorful, flavorful, and beautifully presented.",
 			"rating": 4.3,
 			"recipes": [
 				{
