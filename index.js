@@ -4,7 +4,7 @@ const cors = require("cors");
 const port = process.env.PORT || 5000;
 
 const chefs = require("./data/data.json");
-
+const blogs = require("./data/blogs.json")
 app.use(cors());
 
 app.get("/", (req, res) => {
@@ -20,6 +20,11 @@ app.get("/chefs/:id", (req, res) => {
 	const chefData = chefs.chefs.find((eachChef) => eachChef.id === id);
 	res.send(chefData);
 });
+
+app.get("/blogs", (req, res) => {
+	res.send(blogs.blogs);
+});
+
 
 app.listen(port, () => {
 	console.log(`Hungry Dev API is running on port: ${port}`);
