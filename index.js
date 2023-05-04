@@ -3,6 +3,7 @@ const app = express();
 const cors = require("cors");
 const port = process.env.PORT || 5000;
 
+const about = require("./data/about.json");
 const chefs = require("./data/data.json");
 const blogs = require("./data/blogs.json")
 app.use(cors());
@@ -23,6 +24,10 @@ app.get("/chefs/:id", (req, res) => {
 
 app.get("/blogs", (req, res) => {
 	res.send(blogs.blogs);
+});
+
+app.get("/about", (req, res) => {
+	res.send(about);
 });
 
 
