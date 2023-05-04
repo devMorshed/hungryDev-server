@@ -1,30 +1,32 @@
 {
 	"instructor": {
-		"name": "Chef John Doe",
-		"bio": "Chef John Doe is a renowned culinary expert with over 20 years of experience in the industry. He has worked in some of the world's most prestigious restaurants and has won numerous awards for his innovative and delicious creations. In addition to his work in the kitchen, Chef John is also a passionate educator, and he has taught cooking classes all over the world."
+		"name": "Chef Morshed",
+    "img1" : "https://i.ibb.co/2SQ10BM/chef.png",
+    "img2" : "https://i.ibb.co/0MHD6zs/chef.jpg",
+		"bio": "devMorshed is also a renowned culinary expert with over 30 years of experience in the industry. He has worked in some of the world's most prestigious restaurants and has won numerous awards for his innovative and delicious creations. In addition to his work in the kitchen, devMorshed is also a passionate educator, and he has taught cooking classes all over the world. And He does these things - only at 25 years old :3 "
 	},
 	"features": [
 		{
 			"id": 1,
 			"title": "Step-by-Step Video Lessons",
-			"description": "Our course features detailed video lessons that guide you through every step of the cooking process. You'll learn everything from basic knife skills to advanced cooking techniques, and you'll be able to follow along with the instructor as he prepares each dish."
+			"description": "His course features detailed video lessons that guide you through every step of the cooking process. You'll learn everything from basic knife skills to advanced cooking techniques, and you'll be able to follow along with the instructor as he prepares each dish."
 		},
 		{
 			"id": 2,
 			"title": "Interactive Quizzes",
-			"description": "To help you retain what you've learned, we've included interactive quizzes at the end of each lesson. These quizzes will test your knowledge and help you identify areas where you might need to review the material."
+			"description": "To help you retain what you've learned, He has included interactive quizzes at the end of each lesson. These quizzes will test your knowledge and help you identify areas where you might need to review the material."
 		},
 		{
 			"id": 3,
 			"title": "Recipe Library",
-			"description": "As a student in our course, you'll have access to a library of recipes that you can use to practice your skills and create delicious meals at home. Each recipe includes detailed instructions and ingredient lists, and you can easily search the library by cuisine, course, or dietary preference."
+			"description": "As a student in his course, you'll have access to a library of recipes that you can use to practice your skills and create delicious meals at home. Each recipe includes detailed instructions and ingredient lists, and you can easily search the library by cuisine, course, or dietary preference."
 		}
 	],
 	"packages": [
 		{
 			"id": 1,
 			"title": "Basic Package",
-			"description": "Get access to all of our course materials, including video lessons, interactive quizzes, and the recipe library.",
+			"description": "Get access to all of this course materials, including video lessons, interactive quizzes, and the recipe library.",
 			"price": "$99"
 		},
 		{
@@ -36,7 +38,7 @@
 		{
 			"id": 3,
 			"title": "VIP Package",
-			"description": "Our VIP Package includes everything in the Premium Package, as well as a private virtual cooking lesson with Chef John himself.",
+			"description": "Our VIP Package includes everything in the Premium Package, as well as a private virtual cooking lesson with devMorshed himself!!! Hurry Up and grab this package bro.",
 			"price": "$499"
 		}
 	]
